@@ -12,7 +12,12 @@ ENCF002AAZ
 ![Fastqc report](images/AAX1.png "AAZ")
 ![Fastqc report](images/AAX2.png "AAZ")
 
-[source location](src/ENCFF000WXY_fastqc.html) 
-[source location](src/ENCFF002AAX_fastqc.html) 
-[source location](src/ENCFF002AAZ_fastqc.html)
+[control](src/ENCFF000WXY_fastqc.html) 
+[ENCFF002AAX](src/ENCFF002AAX_fastqc.html) 
+[ENCFF002AAZ](src/ENCFF002AAZ_fastqc.html)
 
+Сокращенная информация по подрезанным чтениям:
+![Fastqc report](images/trim_AAX.png "AAX")
+![Fastqc report](images/trim_AAZ.png "AAZ")
+[ENCFF002AAX](src/ENCFF002AAX.fastq.trim_fastqc.html)
+[ENCFF002AAZ](src/ENCFF002AAZ.fastq.trim_fastqc.html)
