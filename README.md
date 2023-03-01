@@ -21,3 +21,14 @@ ENCF002AAZ
 ![Fastqc report](images/trim_AAZ.png "AAZ")
 [ENCFF002AAX](src/ENCFF002AAX.fastq.trim_fastqc.html)
 [ENCFF002AAZ](src/ENCFF002AAZ.fastq.trim_fastqc.html)
+
+## Таблица с результатами выравнивания
+![table](images/table.png "table")
+Стоит отметить малый процент выравниваний. Это произошло из-за выравнивания всего на одну хромосому, а не на весь геном.
+
+## Диаграммы
+![table](images/venn1.png "diag")
+![table](images/venn2.png "diag")
+![table](images/venn3.png "diag")
+![table](images/venn4.png "diag")
+Как и в случае с выравниванием, плохое (а точнее нулевое) пересечение объясняется выравниванием на одну хромосому. 13 хромосама оказалась неудачной для выравнивания.
